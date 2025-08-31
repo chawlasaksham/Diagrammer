@@ -1,6 +1,6 @@
-# React Workflow Builder
+# React Diagrammer
 
-A modern **React-based workflow builder** application that provides an interactive canvas where users can design, visualize, and manage workflows with a drag-and-drop interface.
+A modern **React-based diagrammer** application that provides an interactive canvas where users can design, visualize, and manage workflows with a drag-and-drop interface.
 
 ## 🚀 Features
 
@@ -9,7 +9,7 @@ A modern **React-based workflow builder** application that provides an interacti
 - **Redux Toolkit** – Simplified global state management  
 - **Tailwind CSS** – Utility-first styling with custom configurations  
 - **React Router v6** – Declarative routing  
-- **Canvas Workflow Builder** – Interactive drag-and-drop canvas to create workflows  
+- **Canvas** – Interactive drag-and-drop canvas to create workflows  
 - **Node/Edge Management** – Add, remove, and connect workflow nodes visually  
 - **Framer Motion** – Smooth animations for better UX  
 - **Data Visualization** – Optional integration with D3.js/Recharts for insights  
