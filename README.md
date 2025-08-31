@@ -1,31 +1,33 @@
-# React
+# React Workflow Builder
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+A modern **React-based workflow builder** application that provides an interactive canvas where users can design, visualize, and manage workflows with a drag-and-drop interface.
 
 ## 🚀 Features
 
-- **React 18** - React version with improved rendering and concurrent features
-- **Vite** - Lightning-fast build tool and development server
-- **Redux Toolkit** - State management with simplified Redux setup
-- **TailwindCSS** - Utility-first CSS framework with extensive customization
-- **React Router v6** - Declarative routing for React applications
-- **Data Visualization** - Integrated D3.js and Recharts for powerful data visualization
-- **Form Management** - React Hook Form for efficient form handling
-- **Animation** - Framer Motion for smooth UI animations
-- **Testing** - Jest and React Testing Library setup
+- **React 18** – Modern React version with concurrent rendering  
+- **Vite** – Lightning-fast build tool and dev server  
+- **Redux Toolkit** – Simplified global state management  
+- **Tailwind CSS** – Utility-first styling with custom configurations  
+- **React Router v6** – Declarative routing  
+- **Canvas Workflow Builder** – Interactive drag-and-drop canvas to create workflows  
+- **Node/Edge Management** – Add, remove, and connect workflow nodes visually  
+- **Framer Motion** – Smooth animations for better UX  
+- **Data Visualization** – Optional integration with D3.js/Recharts for insights  
+- **Form Handling** – React Hook Form for node property editing  
+- **Testing** – Jest + React Testing Library setup  
 
 ## 📋 Prerequisites
 
-- Node.js (v14.x or higher)
-- npm or yarn
+- Node.js (v14.x or higher)  
+- npm or yarn  
 
 ## 🛠️ Installation
 
-1. Install dependencies:
+1. Clone the repository:
    ```bash
-   npm install
-   # or
-   yarn install
+   git clone https://github.com/username/workflow-builder.git
+   cd workflow-builder
+
    ```
    
 2. Start the development server:
