@@ -1,5 +1,16 @@
 # React Diagrammer
 
+### Deployed Link
+
+You can visit the live version of the app here:  
+[**Digrammer Live**](https://diagrammer-sigma.vercel.app/)
+
+**Login Credentials:**
+
+- **Username:** sysadmin  
+- **Password:** test3
+
+
 A modern **React-based diagrammer** application that provides an interactive canvas where users can design, visualize, and manage workflows with a drag-and-drop interface.
 
 ## 🚀 Features
